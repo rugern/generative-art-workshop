@@ -1,20 +1,26 @@
-# Creative programming workshop
+# Generative art workshop
 
-## Contents
+This is a boilerplate (create-react-app with Typescript, react-p5, and some other handy stuff) and a couple exercises
+and resources for getting started with generative art.
 
-- [Development](#development)
-- [Resources](#resources)
-- [Exercises](#exercises)
-- [Keymap](#keymap)
-- [FAQ](#faq)
-- [Community](#community)
-- [Credits and inspiration](#credits-and-inspiration)
+### Setup
 
-## Development
+```
+npm i
+```
+
+### Running
 
 ```
 npm start
 ```
+
+## Contents
+
+- [Resources](#resources)
+- [Exercises](#exercises)
+- [Community](#community)
+- [Credits and inspiration](#credits-and-inspiration)
 
 ## Resources
 
