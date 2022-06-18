@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import { Example } from "./sketches/Example";
+import { Flowfields } from "./solutions/Flowfields";
 
 function App() {
   return (
     <div className="App">
-      <Example />
+      <Flowfields />
     </div>
   );
 }
