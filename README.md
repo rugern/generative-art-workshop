@@ -1,6 +1,12 @@
 # Generative art workshop
 
-This is a boilerplate (create-react-app with Typescript, react-p5, and some other handy stuff) and a couple exercises
+You can solve the exercises either in the playground for p5.js at [https://editor.p5js.org
+](https://editor.p5js.org/) or by running this repo. The pro of this repo is that it's easy to send parameters to p5, in
+case
+you want to introduce variables such as sliders to adjust your sketches.
+
+This repo is a boilerplate (create-react-app with Typescript, react-p5, and some other handy stuff) and a couple
+exercises
 and resources for getting started with generative art.
 
 ### Setup
@@ -42,9 +48,9 @@ Example result:
 
 1. Using a 6x6 grid of evenly spaced points
 1. Connect two random points on the grid; forming a trapezoid with two parallel sides extending down to the baseline
-   1. Set the same stroke color as your background
-   1. Fill the trapezoid with a colour
-   1. Repeat until all grid points are exhausted
+    1. Set the same stroke color as your background
+    1. Fill the trapezoid with a colour
+    1. Repeat until all grid points are exhausted
 1. Layer the shapes by the average Y position of their two grid points so that the shortest shapes is drawn in front of
    the others
 
